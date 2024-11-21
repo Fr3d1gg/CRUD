@@ -1,0 +1,6 @@
+com\mycompany\crudmvc\controlador\UsuarioControlador.class
+com\mycompany\crudmvc\modelo\testConexion.class
+com\mycompany\crudmvc\modelo\UsuarioDAO.class
+com\mycompany\crudmvc\controlador\LoginControlador.class
+com\mycompany\crudmvc\modelo\Usuario.class
+com\mycompany\crudmvc\modelo\Conexion.class
